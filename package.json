@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "three": "^0.156.1"
+  },
+  "scripts": {
+    "start": "npx vite",
+    "build": "npx vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
